@@ -20,5 +20,72 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "의학관": {
+      "style": "ribbon",
+      "wall": "#d9b9a6",
+      "glass": "#2c3236",
+      "frame": "#c9b0a0"
+    },
+    "스포츠과학대학": {
+      "style": "stone",
+      "wall": "#dedcd8",
+      "glass": "#2f3a40",
+      "frame": "#b8b8b4",
+      "hip": true,
+      "roof": "#8a8d90"
+    },
+    "율곡기념도서관": {
+      "style": "stone",
+      "wall": "#d6d4ce",
+      "glass": "#3c4a5a",
+      "frame": "#c4c2bc"
+    },
+    "인문과학관": {
+      "style": "brick",
+      "wall": "#b0553a",
+      "glass": "#3a3a3c",
+      "frame": "#c6a490"
+    },
+    "예술대학": {
+      "style": "brick",
+      "wall": "#9a5040",
+      "glass": "#303438",
+      "frame": "#c09080",
+      "hip": true,
+      "roof": "#4b3f3a"
+    },
+    "제3과학관": {
+      "style": "stone",
+      "wall": "#a8acb0",
+      "glass": "#2f383e",
+      "frame": "#d8dadc"
+    },
+    "생명자원과학대학": {
+      "style": "brick",
+      "wall": "#a8503e",
+      "glass": "#3a5a66",
+      "frame": "#d0c8c0"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#9a4a36",
+      "glass": "#2d3a44",
+      "frame": "#d8a898"
+    },
+    "자연과학대학": {
+      "style": "brick",
+      "wall": "#9a4836",
+      "glass": "#2f4a46",
+      "frame": "#c8c0b8"
+    },
+    "산학협력관": {
+      "style": "stone",
+      "wall": "#e8e8e4",
+      "glass": "#3a7a7c",
+      "frame": "#c8cac8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
